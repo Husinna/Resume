@@ -1,0 +1,17 @@
+/* Basic styles */
+body {
+background: #F6F6FA;
+padding: 40px 40px 40px 40px;
+font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper {
+    background: #FFF;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.main-content {
+    padding: 80px 40px 80px 88px;
+    box-sizing: border-box;
+}
